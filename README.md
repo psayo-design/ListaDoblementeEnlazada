@@ -1,5 +1,7 @@
 # README — Lista Doblemente Enlazada en Python
 
+# Pablo Andrés Say Oliva, 9490-24-18876
+
 ## Cómo ejecutar el programa
 
 1. Guarda el código en un archivo, por ejemplo:
